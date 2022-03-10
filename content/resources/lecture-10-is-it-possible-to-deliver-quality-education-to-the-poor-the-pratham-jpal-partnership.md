@@ -7,7 +7,7 @@ learning_resource_types:
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Is it possible to deliver quality education to the poor: The Pratham-JPAL
-  Partnership (PDF)](resources/mit14_73s11_lec10_slides)'
+  Partnership (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec10_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''

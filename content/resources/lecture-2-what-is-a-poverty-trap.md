@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[What is a poverty trap? (PDF)](resources/mit14_73s11_lec2_slides)'
+optional_text: '[What is a poverty trap? (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec2_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''

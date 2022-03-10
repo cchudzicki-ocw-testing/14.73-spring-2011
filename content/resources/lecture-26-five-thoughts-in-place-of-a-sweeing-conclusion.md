@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Five thoughts in place of a sweeping conclusion (PDF)](resources/mit14_73s11_lec26_slides)'
+optional_text: '[Five thoughts in place of a sweeping conclusion (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec26_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''

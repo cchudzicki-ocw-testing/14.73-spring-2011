@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[How do families decide? (PDF - 1.1MB)](resources/mit14_73s11_lec13_slides)'
+optional_text: '[How do families decide? (PDF - 1.1MB)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec13_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
