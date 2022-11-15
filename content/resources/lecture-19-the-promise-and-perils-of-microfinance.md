@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[The promise and perils of microfinance (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec19_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: The Promise and Perils of Microfinance'
 uid: 196d61e4-47ec-8fd5-da0c-141ffc922262
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture discusses the topic of pros and cons of microfinance for the poor.
 
 **Instructor:** Abhijit Banerjee
+

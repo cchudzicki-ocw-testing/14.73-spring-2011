@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Policies, politics: Can evidence play a role in the fight against
@@ -13,6 +15,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Policies, Politics: Can Evidence Play a Role in the Fight Against
   Poverty?, cont.'
 uid: 1b115742-0081-d2a9-fdaa-d827262fc137
@@ -28,3 +31,4 @@ video_metadata:
 **Description:** This lecture discusses the impact of political economics on the world's poor.
 
 **Instructor:** Abhijit Banerjee
+

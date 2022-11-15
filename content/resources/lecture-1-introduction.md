@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Introduction (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec1_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction '
 uid: 4c733ff7-f772-ed8e-38f7-d0e890648a32
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Lecture 1 provides an introduction to the study of global poverty. The class dicusses the challenges of world poverty.
 
 **Instructor:** Abhijit Banerjee
+

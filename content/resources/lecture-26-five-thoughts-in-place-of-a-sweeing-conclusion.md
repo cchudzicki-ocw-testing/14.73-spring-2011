@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Five thoughts in place of a sweeping conclusion (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec26_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 26: Five Thoughts in Place of a Sweeping Conclusion'
 uid: 1aa58c4e-a538-05a3-5b9c-f8a1f1a87d33
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** The professor provides some final thoughts to conclude the course on the challenges of world poverty.
 
 **Instructor:** Abhijit Banerjee
+

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-73-the-challenge-of-world-poverty-spring-2011/8d3eed7d1d6f5c4aaac61212d5924465_nc7dDE4_3zs.vtt
+file: /media/courses/14-73-the-challenge-of-world-poverty-spring-2011/8d3eed7d1d6f5c4aaac61212d5924465_nc7dDE4_3zs.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

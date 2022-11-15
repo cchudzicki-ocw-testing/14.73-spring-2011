@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Insurance (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec16_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Insurance'
 uid: ac4a6219-2af0-67cf-7b9f-db6beb92c70f
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers risk and insurance for the world's poor.
 
 **Instructor:** Abhijit Banerjee
+

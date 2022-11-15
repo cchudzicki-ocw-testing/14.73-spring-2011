@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Risk and insurance (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec15_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Risk and Insurance'
 uid: 7d44b8ab-ce4e-a05b-d61a-3f73cc1ec11a
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture discusses the ways in which risk is costly to the poor and if insurance is beneficial to this population.
 
 **Instructor:** Abhijit Banerjee
+

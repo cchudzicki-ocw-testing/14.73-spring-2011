@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Is it possible to deliver quality education to the poor: The Pratham-JPAL
@@ -13,6 +15,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Is It Possible to Deliver Quality Education to the Poor-The Pratham-JPAL
   Partnership'
 uid: 5e62a629-a54a-1640-b705-eac66351b67f
@@ -28,3 +31,4 @@ video_metadata:
 **Description:** This lecture discusses various experiments and interventions in education, specifically in India. The work of the organization, Pratham, is also covered.
 
 **Instructor:** Esther Duflo
+

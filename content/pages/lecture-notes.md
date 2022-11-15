@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes and handouts used for each session
+  of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -256,7 +258,7 @@ The (not so simple) economics of lending to the poor (cont.) (Slides unavailable
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Savings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit14_73s11_lec20_slides)
+{{% resource_link "315a77ff-5a4c-d7f7-d7de-3116c2b3ed67" "Savings (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,7 +306,7 @@ Entrepreneurs and workers (cont.) (Slides unavailable)
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Policies, politics: Can evidence play a role in the fight against poverty? (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit14_73s11_lec24_slides)
+{{% resource_link "cea26ee9-298c-82cb-5581-54e531e2be51" "Policies, politics: Can evidence play a role in the fight against poverty? (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

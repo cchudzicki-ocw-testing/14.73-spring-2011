@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[The hidden traps (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec6_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Nutrition: The Hidden Traps'
 uid: 8a06045a-c58b-2ea3-def7-1f521421cfa7
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Esther Duflo discusses nutrition as a hidden trap.
 
 **Instructor:** Esther Duflo
+

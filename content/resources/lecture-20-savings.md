@@ -1,17 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Savings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](resources/mit14_73s11_lec20_slides)'
+optional_text: '[Savings (PDF)](resources/mit14_73s11_lec20_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Savings'
 uid: 60d13207-8c82-beb5-e3d9-a2264aad50ce
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers the realities of saving and borrowing for the world's poor.
 
 **Instructor:** Abhijit Bannerjee
+

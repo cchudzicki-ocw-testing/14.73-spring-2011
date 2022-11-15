@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Is there a nutrition-based poverty trap? (PDF - 1.2MB)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec5_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Is There a Nutrition-Based Poverty Trap?'
 uid: 72bce02a-2922-91a9-a219-21420eeaade6
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Esther Duflo covers malnutriton and the nutrition-based poverty trap, including the relationship between productivity and nutrition.
 
 **Instructor:** Esther Duflo
+

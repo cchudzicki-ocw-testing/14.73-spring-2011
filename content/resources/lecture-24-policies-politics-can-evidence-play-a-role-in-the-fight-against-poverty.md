@@ -1,18 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Policies, politics: Can evidence play a role in the fight against
-  poverty? (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](resources/mit14_73s11_lec24_slides)'
+  poverty? (PDF)](resources/mit14_73s11_lec24_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Policies, Politics: Can Evidence Play a Role in the Fight Against
   Poverty?'
 uid: 2c1c026f-88c9-6640-9364-32a5ae2692b8
@@ -28,3 +31,4 @@ video_metadata:
 **Description:** This lecture discusses theories and policies developed to help fight poverty.
 
 **Instructor:** Abhijit Banerjee
+

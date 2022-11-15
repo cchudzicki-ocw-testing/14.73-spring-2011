@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Gender discrimination (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec14_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Gender Discrimination'
 uid: 31532577-9667-4cfd-07ee-f77e36dce784
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers gender discrimination and uneven gender ratios in various countries, including India.
 
 **Instructor:** Abhijit Banerjee
+

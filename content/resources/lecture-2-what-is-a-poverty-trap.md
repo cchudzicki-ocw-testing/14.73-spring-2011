@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[What is a poverty trap? (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec2_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: What is a Poverty Trap?'
 uid: 61c2bf3d-b645-55ee-ae1c-eff7ee5fdb53
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Lecture 2 provides an introduction to the idea of poverty traps.
 
 **Instructor:** Esther Duflo
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[How do families decide? (PDF - 1.1MB)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec13_slides)'
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: How Do Families Decide?'
 uid: 0b58d1dc-33e5-1e29-60c9-76e7c797324d
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture continues the discussion from lecture 12, and also includes material on how families make decisions about family planning.
 
 **Instructor:** Esther Duflo
+
